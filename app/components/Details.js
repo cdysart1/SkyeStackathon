@@ -32,9 +32,6 @@ const styles = StyleSheet.create({
 		height: null,
 	},
   text: {
-		// flex:1,
-		// justifyContent: 'center',
-		// alignItems: 'center',
     color: '#ffffff',
     fontSize: 30,
     textAlign: 'left',
